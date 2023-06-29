@@ -39,7 +39,10 @@ next export
 # (even though, as you'll see, we don't exactly do that).
 
 mv out/\_next . # out/ contains only html files.
+
 I am so sorry but isme mujhe kafi target feel hua he mera vaat lag gaya he mene 2days se khaya ni he kuch. Meri halat kharab ho rahi he. Tu solve kr le achhese but github se hi baat kr lena merse please
+
+- I know tera halat nai he abhi thik me sb samaj rhi hu, mujhe samj raha he sb please take care kuch nahi hoga sb thik hoga
 
 - code push krke rkh dena baki me sambhalti hu sab n sejal ko bhi don't worry
 - github ka mail notifications mat rkhna ha please, nhi to firse vaat lgega
