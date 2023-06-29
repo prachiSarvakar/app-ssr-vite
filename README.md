@@ -22,8 +22,6 @@ Project name: app-ssr-vite
 next build
 next export
 
-### Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
-
 # at this point, we have an out directory as follows
 
 # out/[all html files]
@@ -40,7 +38,7 @@ next export
 
 # (even though, as you'll see, we don't exactly do that).
 
-mv out/\_next . # out/ contains only html files
+mv out/\_next . # out/ contains only html files.Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
 mv out \_out
 mkdir -p out/builds/$GITHASH
 mv _out/* out/builds/$GITHASH
