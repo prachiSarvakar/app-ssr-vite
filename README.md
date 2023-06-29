@@ -47,6 +47,8 @@ I am so sorry but isme mujhe kafi target feel hua he mera vaat lag gaya he mene 
 - code push krke rkh dena baki me sambhalti hu sab n sejal ko bhi don't worry
 - github ka mail notifications mat rkhna ha please, nhi to firse vaat lgega
 - chalega? karega baat?
+
+-- hope fully thik ho jae but you take your lunch and dinner as well time pe. Muje time jaega i dont know isme se bahar nikalne. kafi kuch ho raha he mere life me so. 
   mv out \_out
   mkdir -p out/builds/$GITHASH
 mv _out/* out/builds/$GITHASH
