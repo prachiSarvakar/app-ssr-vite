@@ -22,6 +22,8 @@ Project name: app-ssr-vite
 next build
 next export
 
+### Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
+
 # at this point, we have an out directory as follows
 
 # out/[all html files]
@@ -31,8 +33,6 @@ next export
 # and we have a static directory as follows:
 
 # static/$ASSET_PATH/$ASSET_NAME.$ASSET_EXT/$ASSET_HASH.$ASSET_EXT
-
-# Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
 
 # the goal is to be able to have this new directory structure reflect what
 
