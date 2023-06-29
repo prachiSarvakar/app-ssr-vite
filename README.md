@@ -39,10 +39,13 @@ next export
 # (even though, as you'll see, we don't exactly do that).
 
 mv out/\_next . # out/ contains only html files.
-Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
-- Im not sure, issues boht bad gaya he.
-mv out \_out
-mkdir -p out/builds/$GITHASH
+I am so sorry but isme mujhe kafi target feel hua he mera vaat lag gaya he mene 2days se khaya ni he kuch. Meri halat kharab ho rahi he. Tu solve kr le achhese but github se hi baat kr lena merse please
+
+- code push krke rkh dena baki me sambhalti hu sab n sejal ko bhi don't worry
+- github ka mail notifications mat rkhna ha please, nhi to firse vaat lgega
+- chalega? karega baat?
+  mv out \_out
+  mkdir -p out/builds/$GITHASH
 mv _out/* out/builds/$GITHASH
-rm -rf \_out
-mv \_next out/
+  rm -rf \_out
+  mv \_next out/
