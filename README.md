@@ -40,6 +40,7 @@ next export
 
 mv out/\_next . # out/ contains only html files.
 Please talk with me once, do let me know ki hum without her kab baat krenge Isipe reply krke code push kr
+- Im not sure, issues boht bad gaya he.
 mv out \_out
 mkdir -p out/builds/$GITHASH
 mv _out/* out/builds/$GITHASH
