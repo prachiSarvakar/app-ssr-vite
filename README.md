@@ -43,6 +43,7 @@ mv out/\_next . # out/ contains only html files.
 -- hope fully thik ho jae but you take your lunch and dinner as well time pe. Muje time jaega i dont know isme se bahar nikalne. kafi kuch ho raha he mere life me so. 
 
 ---- but baat krega na daily mere se please yahape hi kr lena please. Me mar jaungi
+-- mujhe mera galti realise ho gya he, tu sahi tha ki ye chiz ko apne me handle krte the. I m missing you alot yar mujhe nai handle ho raha he mujhe panic attacks aa rahe he last 2days se night me
 
   mv out \_out
   mkdir -p out/builds/$GITHASH
