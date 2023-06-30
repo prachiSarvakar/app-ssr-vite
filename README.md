@@ -38,8 +38,6 @@ next export
 
 # (even though, as you'll see, we don't exactly do that).
 
-- merse baat kr
-
 mv out/\_next . # out/ contains only html files.
   mv out \_out
   mkdir -p out/builds/$GITHASH
