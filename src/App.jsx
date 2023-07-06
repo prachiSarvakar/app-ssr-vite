@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
   console.log(
-    "Please talk with me once, do let me know ki hum without her kab baat krenge. Isipe reply krke code push kr"
+    "need to talk"
   );
   return (
     <div className="App">
